@@ -32,6 +32,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 This Angular project is a basic calculator that supports the following features:
 
+# Built With
+- html
+- css
+- angular js
+  
 ## Features
 
 - **Addition:** Perform addition operations.

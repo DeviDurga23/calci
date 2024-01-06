@@ -25,3 +25,27 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+
+# Simple Angular Calculator
+
+This Angular project is a basic calculator that supports the following features:
+
+## Features
+
+- **Addition:** Perform addition operations.
+- **Subtraction:** Perform subtraction operations.
+- **Multiplication:** Perform multiplication operations.
+- **Division:** Perform division operations.
+
+## How to Use
+
+1. Enter a number using the number buttons.
+2. Click on an operation button (`+`, `-`, `*`, `/`) to choose the desired operation.
+3. Enter the second number.
+4. Click on the "=" button to see the result.
+
+## Screenshots
+
+![angularcalci](https://github.com/DeviDurga23/calci/assets/153984136/b27468e4-d519-46e8-b8b0-59d61876e703)
